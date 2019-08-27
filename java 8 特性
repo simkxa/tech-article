@@ -1,1 +1,18 @@
 
+1 Lambda表达式和函数式接口
+2 接口的默认方法和静态方法
+3 方法引用
+4 重复注解
+5 更好的类型推断
+6 拓宽注解的应用场景
+7 参数名称
+8 Optional
+9 Streams
+10 Date/Time API(JSR 310)
+11 Nashorn JavaScript引擎
+12 Base64
+13 并行数组
+14 并发性
+15 Nashorn引擎：jjs
+16 类依赖分析器：jdeps
+17 使用Metaspace（JEP 122）代替持久代（PermGen space）
